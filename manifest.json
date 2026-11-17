@@ -1,0 +1,10 @@
+{
+  "id": "modular-calendar",
+  "name": "Modular Calendar",
+  "version": "0.16.0",
+  "minAppVersion": "1.5.0",
+  "description": "Show a customizable month, week, day and year calendar with lunar dates, solar terms, holidays, periodic notes, tasks and recurring items.",
+  "author": "yuri55448",
+  "authorUrl": "https://github.com/yuri55448",
+  "isDesktopOnly": false
+}
